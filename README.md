@@ -2,7 +2,7 @@
 
 Clone git repository
 ```bash
-  git clone https://github.com/vladanoyan/work_test.git
+  git clone https://github.com/vladanoyan/pokeApi.git
 ```
 
 Run project
