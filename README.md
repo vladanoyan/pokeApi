@@ -7,7 +7,7 @@ Clone git repository
 
 Run project
 ```js
-  cd work_test && npm install && npm start
+  cd pokeApi && npm install && npm start
 ```
 
 Open http://localhost:3000 to see the project.
